@@ -1,0 +1,54 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GamePlayer",
+            "request": "launch",
+            "mainClass": "Project.GamePlayer",
+            "projectName": "Java_c43ebd54"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Project.Main",
+            "projectName": "Java_c43ebd54"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java_c43ebd54"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main_2013311689",
+            "request": "launch",
+            "mainClass": "W3.Java_2013311689_week2.Main_2013311689",
+            "projectName": "Java_a6a56d16"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JAVA_2013311689_1",
+            "request": "launch",
+            "mainClass": "W2.JAVA_2013311689_1.JAVA_2013311689_1",
+            "projectName": "Java_a6a56d16"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GPA",
+            "request": "launch",
+            "mainClass": "W1.Practice.GPA",
+            "projectName": "Java_a6a56d16"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java_a6a56d16",
+            "internalConsoleOptions": "openOnSessionStart"
+        }
+    ]
+}
